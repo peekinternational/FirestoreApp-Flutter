@@ -1,6 +1,6 @@
 # A Completed Functional Flutter App - Peachy Ecommerce  (BLoC + Firebase + Clean Architecture)
 
-![Banner](https://github.com/haonguyenuet/ecommerce-flutter-firebase/blob/main/screenshots/banner.png)
+![Banner](https://github.com/peekinternational/FirestoreApp-Flutter/blob/main/screenshots/banner.png)
 
 ## Folder Structure
 Here is the core folder structure which flutter provides.
@@ -33,7 +33,7 @@ lib/
 
 ## App Features:
 * Flutter + Firebase (Firestore, Authentication, Storage)
-  Test account: haonguyen.uet@gmail.com / 123456
+  Test account: peekinternational@gmail.com / 123456
 * Use BloC pattern
 * Responsive
 * User-friendly interface
@@ -50,7 +50,7 @@ lib/
 * More...
 
 ## Some Screens:
-![Banner](https://github.com/haonguyenuet/ecommerce-flutter-firebase/blob/main/screenshots/screens.png)
+![Banner](https://github.com/peekinternational/FirestoreApp-Flutter/blob/main/screenshots/screens.png)
 
 ## Before run project, execute commands:
 - `flutter clean`
